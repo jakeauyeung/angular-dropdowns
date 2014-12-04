@@ -20,3 +20,5 @@ $scope.plSelectSelected = {};
     dropdown-onchange="plrefrechResult(selected)" >
 </div>
 ```
+
+![联选](http://jakeauyeung.qiniudn.com/angular-dropdowns.png)
